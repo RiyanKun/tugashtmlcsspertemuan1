@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #0be881;
+    height: 2000px;
+}
+.logo-jquery {
+    margin: 20px;
+}
+
+.container {
+    width: 1024px;
+    /* background-color: #f1f2f6; */
+    margin: auto;
+}
+header {
+    background-color: #1e272e;
+}
+
+header li {
+    display: inline-block;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+header a {
+    color: #ffffff;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+
+header a:hover {
+    color: black;
+    background-color: white;
+}
+
+.content {
+    background-color: #f1f2f6;
+    padding: 20px 15px;
+}
+
+.content .one {
+    background-color: #808e9b;
+    
+    padding: 10px;
+    color: #ffffff;
+}
+
+.content .first {
+    margin: 0 10px;
+}
+.first, .try1 , .try2 {
+    padding: 10px 0;
+}
+
+.content .two {
+    background-color: #808e9b;
+    
+    padding: 10px;
+    color: #ffffff;
+}
+
+.html-css-js {
+  
+width: 100%;
+margin: 10px 0;
+}
+
+.content h3 {
+    background-color: #1e90ff;
+    
+    padding: 10px;
+    font-size: x-large;
+}
+
+p span {
+    font-weight: bold;
+}
+
+p.try, p.try2 {
+    margin: 0 10px;
+    text-align: justify;
+}
+
+p.try2 {
+    margin: 10px 10px;
+}
+
+footer {
+    background-color: #353b48;
+    color: white;
+    padding: 20px;
+    text-align: right;
+}
